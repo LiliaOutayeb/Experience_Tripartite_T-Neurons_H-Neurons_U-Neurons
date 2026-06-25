@@ -1,5 +1,5 @@
 
-# Pipeline expérimental H-Neurons
+# Pipeline expérimental H-Neurons, T-Neurons, U-Neurons
 
 ## Description
 
